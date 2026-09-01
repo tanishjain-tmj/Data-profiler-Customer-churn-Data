@@ -1,0 +1,52 @@
+[
+    {
+        "customer_id": 1,
+        "membership_type": "Premium",
+        "preferred_category": "Electronics"
+    },
+    {
+        "customer_id": 2,
+        "membership_type": "Basic",
+        "preferred_category": "Clothing"
+    },
+    {
+        "customer_id": 3,
+        "membership_type": "Premium",
+        "preferred_category": "Beauty"
+    },
+    {
+        "customer_id": 4,
+        "membership_type": "Standard",
+        "preferred_category": "Home"
+    },
+    {
+        "customer_id": 5,
+        "membership_type": "Basic",
+        "preferred_category": "Sports"
+    },
+    {
+        "customer_id": 6,
+        "membership_type": "Premium",
+        "preferred_category": "Electronics"
+    },
+    {
+        "customer_id": 7,
+        "membership_type": "Standard",
+        "preferred_category": "Clothing"
+    },
+    {
+        "customer_id": 8,
+        "membership_type": "Basic",
+        "preferred_category": "Beauty"
+    },
+    {
+        "customer_id": 9,
+        "membership_type": "Premium",
+        "preferred_category": "Home"
+    },
+    {
+        "customer_id": 10,
+        "membership_type": "Standard",
+        "preferred_category": "Sports"
+    }
+]
